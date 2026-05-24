@@ -1,6 +1,7 @@
 # 📦 Phoenix-PLM: AI-Native Product Lifecycle & Sourcing Platform
 
-[![Watch Demo Video](https://img.shields.io/badge/Demo_Video-Request_Access_on_Google_Drive-blue?style=for-the-badge&logo=google-drive)](YOUR_TRACKABLE_GOOGLE_DRIVE_LINK_HERE)
+[![Watch Demo Video](https://img.shields.io/badge/Demo_Video-Watch_on_Loom-6B46C1?style=for-the-badge&logo=loom)](https://www.loom.com/share/7d2a955dbb034f45ba586b0990c8cf6a)
+
 
 
 > **Phoenix-PLM** is a high-fidelity prototype designed by a Technical Product Manager to validate end-to-end New Product Introduction (NPI), electronic part sourcing, and supply-chain operations workflows. 
